@@ -1,11 +1,6 @@
-Generate API Key
 Your API key for marketingfortara@gmail.com is:
 
 ir8rStbc5q2MqEw8LIHiXoFWWAdb6gIMkpTr4Xiu
 You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
 
 https://api.nasa.gov/planetary/apod?api_key=ir8rStbc5q2MqEw8LIHiXoFWWAdb6gIMkpTr4Xiu
-For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
-
-Account Email: marketingfortara@gmail.com
-Account ID: c5b18959-0c4a-4ac6-96da-89fe0041ed75
